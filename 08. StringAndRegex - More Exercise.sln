@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Extract Person Information", "01. Extract Person Information\01. Extract Person Information.csproj", "{31D97A63-484B-4BDF-B468-1D6B77A4F880}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Ascii Sumator", "02. Ascii Sumator\02. Ascii Sumator.csproj", "{04674E20-FBB0-4440-82ED-60CABBB53C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Treasure Finder", "03. Treasure Finder\03. Treasure Finder.csproj", "{341D2C10-3D33-40CC-A664-A0F90764D07A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D97A63-484B-4BDF-B468-1D6B77A4F880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D97A63-484B-4BDF-B468-1D6B77A4F880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D97A63-484B-4BDF-B468-1D6B77A4F880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D97A63-484B-4BDF-B468-1D6B77A4F880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04674E20-FBB0-4440-82ED-60CABBB53C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04674E20-FBB0-4440-82ED-60CABBB53C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04674E20-FBB0-4440-82ED-60CABBB53C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04674E20-FBB0-4440-82ED-60CABBB53C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341D2C10-3D33-40CC-A664-A0F90764D07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341D2C10-3D33-40CC-A664-A0F90764D07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341D2C10-3D33-40CC-A664-A0F90764D07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341D2C10-3D33-40CC-A664-A0F90764D07A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA3C6563-D3BB-4F6B-853C-C8777F2BCBDB}
+	EndGlobalSection
+EndGlobal
